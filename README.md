@@ -2,7 +2,7 @@ Setup Instructions
 Follow these steps to set up and run the project locally:
 
 Clone the repository:
-  git clone https://github.com/your-username/auth-system.git
+  git clone git@github.com:reenumbinoy/authentication.git
 
 
 Navigate to the project directory:
